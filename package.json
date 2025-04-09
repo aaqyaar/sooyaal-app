@@ -37,7 +37,7 @@
     "react-native-shimmer-placeholder": "^2.0.9",
     "react-native-skeleton-placeholder": "^5.2.4",
     "react-native-toast-message": "^2.1.5",
-    "react-native-web": "~0.18.9",
+    "react-native-web": "~0.20.0",
     "react-redux": "^8.0.5",
     "redux-persist": "^6.0.0",
     "yup": "^0.32.11"
